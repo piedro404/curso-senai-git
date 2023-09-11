@@ -3,7 +3,7 @@
 
 Uma atividade do Curso do Senai sobre versionamento de código usando git como repositório local e o github como repositório remoto
 
-## Contexto 👨‍💻
+## Descrição 👨‍💻
 Para resolver a situação-problema apresentada, você deve buscar uma solução para preservar o histórico de alterações do código-fonte do projeto, bem como realizar a conciliação de alterações em um mesmo repositório.
 
 ## Passos 📖
