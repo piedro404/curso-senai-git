@@ -25,7 +25,7 @@ Para resolver a situação-problema apresentada, você deve buscar uma solução
    * git pull
    * git remote
 
-* Criar um arquivo index.txt no repositório local, copiar e colar as linhas de código indicadas abaixo:
+### Criar um arquivo index.txt no repositório local, copiar e colar as linhas de código indicadas abaixo:
 ```
 <HTML>
 <HEAD><TITLE>ATIVIDADE DE VERSIONAMENTO</TITLE></HEAD>
